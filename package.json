@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@data-ui/histogram": "0.0.79",
+    "@syncfusion/ej2-react-charts": "^17.1.51",
+    "random-int": "^2.0.0",
     "react": "^16.8.6",
+    "react-chart-histogram": "^0.2.4",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
   },
